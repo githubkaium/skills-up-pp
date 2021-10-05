@@ -1,0 +1,11 @@
+.text {
+    text-align: center;
+}
+
+.text span {
+    font-weight: 500;
+}
+
+.text p {
+    font-size: small;
+}

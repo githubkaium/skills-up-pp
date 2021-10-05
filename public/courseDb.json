@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Leadership",
+        "id": "c01",
+        "fee": 15000,
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/leadership-vs-management-difference-article.jpg"
+    },
+    {
+        "name": "HR Management",
+        "id": "c02",
+        "fee": 12000,
+        "img": "https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2019/11/29144739/HR-career.png"
+    },
+    {
+        "name": "Marketing",
+        "id": "c03",
+        "fee": 14000,
+        "img": "https://www.northerninitiatives.org/wp-content/uploads/2017/11/marketing-2483867_1920.jpg"
+    },
+    {
+        "name": "Supply Chain",
+        "id": "c04",
+        "fee": 12000,
+        "img": "https://fmbpartner.com/wp-content/uploads/2017/12/FMB-Consultant-Supply-Chain-Management.jpg"
+    },
+    {
+        "name": "Finance Management",
+        "id": "c05",
+        "fee": 14000,
+        "img": "https://www.netsuite.com/portal/assets/img/business-articles/financial-management/social-financial-management.jpg"
+    },
+    {
+        "name": "Account Management",
+        "id": "c06",
+        "fee": 13000,
+        "img": "https://wow-group.co.uk/wp-content/uploads/2017/10/howtobeagreataccountmanager.jpg"
+    },
+    {
+        "name": "Organizational Behavior",
+        "id": "c07",
+        "fee": 10000,
+        "img": "https://www.elmhurst.edu/wp-content/uploads/2018/11/what-do-industrial-organizational-psychologists-do-illustration.jpg"
+    },
+    {
+        "name": "Data Management",
+        "id": "c08",
+        "fee": 12000,
+        "img": "https://tdwi.org/-/media/TDWI/TDWI/BITW/datamgt2.jpg"
+    },
+    {
+        "name": "Business Relationship",
+        "id": "c09",
+        "fee": 10000,
+        "img": "https://www.superoffice.com/contentassets/aa6e4fab72d74b1e8ae0ca9da0d02e0c/business-relationships.jpg"
+    }
+]

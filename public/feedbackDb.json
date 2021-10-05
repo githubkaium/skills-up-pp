@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Robert Patrik",
+        "id": "pt01",
+        "gender": "Male",
+        "age": 34,
+        "profession": "Operation Manager",
+        "feedback": "This course helps me to manage my task very smoothly",
+        "img": "https://img.freepik.com/free-photo/confident-european-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-128975.jpg?size=626&ext=jpg"
+    },
+    {
+        "name": "Peter Jonshon",
+        "id": "pt02",
+        "gender": "Male",
+        "age": 42,
+        "profession": "HR Manager",
+        "feedback": "It helps me a lot. Great Course",
+        "img": "https://image.freepik.com/free-photo/waist-up-shot-handsome-self-confident-cheerful-male-entrepreneur-has-broad-smile_273609-18909.jpg"
+    },
+    {
+        "name": "Anthonio Sam",
+        "id": "pt03",
+        "gender": "Male",
+        "age": 31,
+        "profession": "Marketing Officer",
+        "feedback": "This course gives me new idea and think differenly.",
+        "img": "https://image.freepik.com/free-photo/portrait-cheerful-bearded-african-american-man-has-happy-expression-smiles-broadly-has-white-perfect-teeth_273609-46019.jpg"
+    },
+    {
+        "name": "Luis Verdan",
+        "id": "pt04",
+        "gender": "Male",
+        "age": 26,
+        "profession": "Supply Chain Manager",
+        "feedback": "Now I can handle a lot of tasks very easily. Thanks a lot.",
+        "img": "https://image.freepik.com/free-photo/red-haired-serious-young-man-blogger-looks-confidently_273609-16730.jpg"
+    },
+    {
+        "name": "Pavel Paulo",
+        "id": "pt05",
+        "gender": "Male",
+        "age": 29,
+        "profession": "Account Officer",
+        "feedback": "This course is worthy.",
+        "img": "https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg"
+    },
+    {
+        "name": "Navin Pan",
+        "id": "pt06",
+        "gender": "Male",
+        "age": 25,
+        "profession": "Sales Executive",
+        "feedback": "Now I know how to boost my sales.",
+        "img": "https://image.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129416.jpg"
+    },
+    {
+        "name": "Martin Luthar",
+        "id": "pt07",
+        "gender": "Male",
+        "age": 52,
+        "profession": "Business Colsuntant",
+        "feedback": "I think knowledge that gives you dimension of thinking is your power.",
+        "img": "https://image.freepik.com/free-photo/senior-man-white-sweater-eyeglasses_273609-42003.jpg"
+    },
+    {
+        "name": "Lathio Samuel",
+        "id": "pt08",
+        "gender": "Male",
+        "age": 32,
+        "profession": "IT Officer",
+        "feedback": "In this Modern era it is tough to survive of lacking IT knowledge in this competitor Market. This course helps me to achive my goal.",
+        "img": "https://image.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg"
+    },
+    {
+        "name": "Jhon Fedrik",
+        "id": "pt09",
+        "gender": "Male",
+        "age": 26,
+        "profession": "Finance Officer",
+        "feedback": "This course helps me to learn various theory to optimize my task.",
+        "img": "https://image.freepik.com/free-photo/yeah-feeling-courage-readiness-achieve-success-confident-delighted-optimistic-african-american-bearded-man-raising-clenched-fists-celebration-triumphing-being-happy-with-good-result_176420-35027.jpg"
+    }
+]
