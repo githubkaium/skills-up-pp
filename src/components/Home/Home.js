@@ -26,7 +26,7 @@ const Home = () => {
                                     <Card.Body>
                                         <Card.Title style={{ color: 'white', fontWeight: "bold" }}>{course.name}</Card.Title>
                                         <Card.Text>
-                                            <Link className="link" to="/services"><small>View More</small></Link>
+                                            <Link className="link" to="/courses"><small>View More</small></Link>
                                         </Card.Text>
                                     </Card.Body>
                                 </Card>
